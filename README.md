@@ -14,9 +14,8 @@
 
 ## 📫 Как со мной связаться
 - 📧 Email: [naluneotlichno@yandex.ru](mailto:naluneotlichno@yandex.ru)
-<a href="https://t.me/Naluneotlichno" target="_blank">
-  <img src="https://t.me/img/tg_badge.svg" alt="Chat with Naluneotlichno" />
-</a>
+[![Chat with Naluneotlichno](https://t.me/img/tg_badge.svg)](https://t.me/Naluneotlichno)
+
 
 ---
 
