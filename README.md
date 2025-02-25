@@ -13,13 +13,14 @@
 ---
 
 ## 📫 Как со мной связаться
-<a href="mailto:naluneotlichno@yandex.ru" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="225" height="55" alt="Email">
-</a>
-<a href="https://t.me/Naluneotlichno" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="225" height="55" alt="Telegram">
-</a>
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="mailto:naluneotlichno@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="225" height="55" alt="Email">
+  </a>
+  <a href="https://t.me/Naluneotlichno" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="225" height="55" alt="Telegram">
+  </a>
+</div>
 
 ---
 
