@@ -13,12 +13,13 @@
 ---
 
 ## 📫 Как со мной связаться
-<div style="text-align: center;">
-  <a href="mailto:naluneotlichno@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="300" height="80" alt="Email">
-  </a>
-  <p style="margin-top: 10px; font-size: 16px; color: #333;">naluneotlichno@yandex.ru</p>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
+  <rect width="300" height="80" fill="#D14836" rx="10" />
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" font-family="Arial" dy=".3em">
+    naluneotlichno@yandex.ru
+  </text>
+</svg>
+
 
 
 <a href="https://t.me/Naluneotlichno" target="_blank">
