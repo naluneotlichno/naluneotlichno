@@ -12,24 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 GitHub Activity
-
-![Snake Animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
----
-
 ## 💻 Языки и навыки
 
 ### Языки программирования:
@@ -70,6 +52,12 @@
   <img src="https://img.shields.io/badge/Unit%20Testing-%2331A8FF.svg?style=for-the-badge" alt="Unit Testing">
   <img src="https://img.shields.io/badge/OOP-%236D4A00.svg?style=for-the-badge" alt="OOP">
 </div>
+
+---
+
+## 🐍 GitHub Activity
+
+![Snake Animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ---
 
