@@ -12,6 +12,12 @@
 
 ---
 
+## 📫 Как со мной связаться
+- 📧 Email: [your-email@example.com](mailto:naluneotlichno@yandex.ru)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
 ## 💻 Языки и навыки
 
 ### Языки программирования:
@@ -55,23 +61,10 @@
 
 ---
 
-## 🐍 GitHub Activity
-
-![Snake Animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
----
-
-## 📫 Как со мной связаться
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
 ## 🌟 Благодарности
 Огромное спасибо авторам потрясающих проектов, которые я использую для оформления профиля:
 - [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [github-contribution-grid-snake](https://github.com/Platane/snk)
 
 💖 Поставьте ⭐ на эти репозитории, если они вам понравились!
 
