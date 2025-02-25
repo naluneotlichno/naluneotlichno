@@ -14,10 +14,9 @@
 
 ## 📫 Как со мной связаться
 - 📧 Email: [naluneotlichno@yandex.ru](mailto:naluneotlichno@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Naluneotlichno)
-
-
-
+<a href="https://t.me/Naluneotlichno" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="300" height="80" alt="Telegram">
+</a>
 
 
 ---
@@ -52,15 +51,6 @@
   <img src="https://img.shields.io/badge/SOLID-%23FF9900.svg?style=for-the-badge" alt="SOLID">
   <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge" alt="Gin">
   <img src="https://img.shields.io/badge/Microservices-%2343495E.svg?style=for-the-badge" alt="Microservices">
-</div>
-
-### Навыки:
-<div>
-  <img src="https://img.shields.io/badge/Leadership-%23FFD700.svg?style=for-the-badge" alt="Leadership">
-  <img src="https://img.shields.io/badge/Analytical%20Skills-%2300C4CC.svg?style=for-the-badge" alt="Analytical Skills">
-  <img src="https://img.shields.io/badge/TCP%2FIP-%233498DB.svg?style=for-the-badge" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/Unit%20Testing-%2331A8FF.svg?style=for-the-badge" alt="Unit Testing">
-  <img src="https://img.shields.io/badge/OOP-%236D4A00.svg?style=for-the-badge" alt="OOP">
 </div>
 
 ---
