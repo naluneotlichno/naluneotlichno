@@ -13,8 +13,8 @@
 ---
 
 ## 📫 Как со мной связаться
-- 📧 Email: [naluneotlichno@yandex.ru](naluneotlichno@yandex.ru)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [naluneotlichno@yandex.ru](mailto:naluneotlichno@yandex.ru)
+- 💙 Telegram: [@Naluneotlichno](https://t.me/Naluneotlichno)
 
 ---
 
