@@ -13,15 +13,9 @@
 ---
 
 ## 📫 Как со мной связаться
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
-  <rect width="300" height="80" fill="#D14836" rx="10" />
-  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" font-family="Arial" dy=".3em">
-    naluneotlichno@yandex.ru
-  </text>
-</svg>
-
-
-
+<a href="mailto:naluneotlichno@yandex.ru" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="225" height="55" alt="Email">
+</a>
 <a href="https://t.me/Naluneotlichno" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="225" height="55" alt="Telegram">
 </a>
