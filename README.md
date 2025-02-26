@@ -1,11 +1,8 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=600&lines=Добро+пожаловать+в+мой+GitHub!;Люблю+программировать+и+развиваться;Пишу+на+Go+и+учу+новое+каждый+день!" alt="Typing SVG">
 </p>
-
----
 
 <p align="center">
   <a href="mailto:naluneotlichno@yandex.ru" target="_blank">
@@ -15,8 +12,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="225" height="55" alt="Telegram">
   </a>
 </p>
-
----
 
 ## 🚀 Обо мне
 - 🌱 Сейчас учусь программировать на Go 🐹
