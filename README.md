@@ -1,8 +1,10 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=600&lines=Добро+пожаловать+в+мой+GitHub!;Люблю+программировать+и+развиваться;Пишу+на+Go+и+учу+новое+каждый+день!" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <a href="mailto:naluneotlichno@yandex.ru" target="_blank">
@@ -13,11 +15,13 @@
   </a>
 </p>
 
+
 ## 🚀 Обо мне
 - 🌱 Сейчас учусь программировать на Go 🐹
 - 💡 Работаю над проектом [GitHubPDF](https://github.com/your-repo-link)
 - 🎯 Цель: стать лидером в IT и помогать другим 🚀
 - 💬 Люблю делиться опытом и создавать крутые штуки ✨
+
 
 ## 💻 Языки и навыки
 
@@ -51,11 +55,13 @@
   <img src="https://img.shields.io/badge/Microservices-%2343495E.svg?style=for-the-badge" alt="Microservices">
 </div>
 
+
 ## 🌟 Благодарности
 Огромное спасибо авторам потрясающих проектов, которые я использую для оформления профиля:
 - [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 💖 Поставьте ⭐ на эти репозитории, если они вам понравились!
+
 
 > "Код — это магия, которая меняет мир. Создавай магию каждый день!" ✨
