@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=900&lines=%20%20%20%20%20%20Добро+пожаловать+в+мой+GitHub!;%20%20%20%20%20%20Go%2C+минимализм+и+новые+горизонты;%20%20%20%20%20%20Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=600&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
 </p>
 
 
