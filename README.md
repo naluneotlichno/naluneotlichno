@@ -1,9 +1,9 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
 
-<div align="center" style="display: flex; justify-content: flex-start; padding-left: 100px;">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C3FF&width=900&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&width=900&height=50&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG" />
   </a>
 </div>
 
