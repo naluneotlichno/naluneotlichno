@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=#FF00FF&width=600&lines=%22Разработка+-+искусство+создавать+будущее+сегодня%22" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF00FF&width=600&lines=%22Разработка+-+искусство+создавать+будущее+сегодня%22" alt="Typing SVG" /></a></h3>
 
 
 <p align="center">
