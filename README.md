@@ -2,7 +2,6 @@
 
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7D95D&width=600&lines=%22Разработка+-+искусство+создавать+будущее+сегодня%22" alt="Typing SVG" /></a></h3>
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=Fiufew&label=views&abbreviated=true&color=yellow&style=for-the-badge" alt=""/></h3>
 
 
 <p align="center">
