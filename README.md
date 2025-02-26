@@ -1,9 +1,14 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=600&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
-</p>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C3FF&width=600&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG" />
+  </a>
+</h3>
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=naluneotlichno&label=Просмотры&color=blue&style=for-the-badge" alt=""/>
+</h3>
 
 
 <p align="center">
