@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
 
-<div style="margin-left: 300px;">
+<div style="margin-left: 1000px;">
   <h3 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C3FF&width=900&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG" />
