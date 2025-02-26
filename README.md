@@ -1,7 +1,11 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=2500&pause=500&color=00FF9D&width=800&height=40&lines=Hello+World!;Custom+Text+Animation;Made+with+%E2%9D%A4%EF%B8%8F" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&width=500&center=true&height=40&lines=Добро+пожаловать+в+мой+GitHub!;Go%2C+минимализм+и+новые+горизонты;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
+  </a>
+</p>
 
 
 <p align="center">
