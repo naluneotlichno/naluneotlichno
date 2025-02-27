@@ -20,7 +20,7 @@
 
 ## 🚀 Обо мне
 - 🌱 Сейчас учусь программировать на Go 
-- 💡 Работаю над проектом [Memolet](https://github.com/naluneotlichno/memolet)
+- ✅ Работаю над проектом [Memolet](https://github.com/naluneotlichno/memolet)
 - 💡 Проекты которые планируются в будущем:
   - [WebParser AI](https://github.com/naluneotlichno/web-parser-ai)
   - [HyperPost](https://github.com/naluneotlichno/hyperpost)
