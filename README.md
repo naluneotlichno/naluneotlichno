@@ -22,12 +22,13 @@
 - 🌱 Сейчас учусь программировать на Go 
 - 💡 Работаю над проектом [Memolet](https://github.com/naluneotlichno/memolet)
 - 💡 Проекты которые планируются в будущем:
-         [WebParser AI](https://github.com/naluneotlichno/web-parser-ai)
-         [HyperPost](https://github.com/naluneotlichno/hyperpost)
-         [GitHub PDF](https://github.com/naluneotlichno/github-pdf)
-         [FixEnter](https://github.com/naluneotlichno/fix-enter)
+  - [WebParser AI](https://github.com/naluneotlichno/web-parser-ai)
+  - [HyperPost](https://github.com/naluneotlichno/hyperpost)
+  - [GitHub PDF](https://github.com/naluneotlichno/github-pdf)
+  - [FixEnter](https://github.com/naluneotlichno/fix-enter)
 - 🎯 Цель: стать лидером в IT и помогать другим 
-- 💬 Люблю делиться опытом и создавать крутые штуки 
+- 💬 Люблю делиться опытом и создавать крутые штуки
+
 
 
 ## 💻 Языки и навыки
