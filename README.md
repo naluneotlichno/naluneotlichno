@@ -2,10 +2,11 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&width=500&center=true&height=40&lines=Добро+пожаловать+в+мой+GitHub!;Мррррррррррррррррр+🐾;Go%20Go%20Go%20Go%20Go%20Go%20Go%20Go%20;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&width=500&center=true&height=40&lines=Добро+пожаловать+в+мой+GitHub!;Мррррррррррррррррр+🐾;Go+Go+Go+Go+Go+Go+Go+Go;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
   </a>
 </p>
+
 
 
 <p align="center">
