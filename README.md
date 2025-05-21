@@ -1,13 +1,10 @@
 <h1 align="center">Привет, я Азат! 👋</h1>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C3FF&width=500&center=true&height=40&lines=Добро+пожаловать+в+мой+GitHub!;Мррррррррррррррррр+🐾;Go+Go+Go+Go+Go+Go+Go+Go;Баги+—+временные%2C+опыт+—+вечен" alt="Typing SVG">
   </a>
 </p>
-
-
 
 <p align="center">
   <a href="mailto:naluneotlichno@yandex.ru" target="_blank">
@@ -18,7 +15,6 @@
   </a>
 </p>
 
-
 ## 🚀 Обо мне
 - 🌱 Сейчас учусь программировать на Go 
 - ✅ Работаю над проектами [GitHub TXT](https://github.com/naluneotlichno/github-txt) и [Memolet](https://github.com/naluneotlichno/memolet)
@@ -28,8 +24,6 @@
   - [FixEnter](https://github.com/naluneotlichno/fix-enter)
 - 🎯 Цель: стать лидером в IT и помогать другим 
 - 💬 Люблю делиться опытом и создавать крутые штуки
-
-
 
 ## 💻 Языки и навыки
 
@@ -62,7 +56,6 @@
   <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge" alt="Gin">
   <img src="https://img.shields.io/badge/Microservices-%2343495E.svg?style=for-the-badge" alt="Microservices">
 </div>
-
 
 ## 🌟 Благодарности
 Респект за классный инструментарий для божественного оформления GitGub:
