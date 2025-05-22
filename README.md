@@ -16,13 +16,12 @@
 </p>
 
 ## 🚀 Обо мне
-- 🌱 Сейчас учусь программировать на Go 
+- 🔥 Програмирую на Go. Учу Python и JS
 - ✅ Работаю над проектами [GitHub TXT](https://github.com/naluneotlichno/github-txt) и [Memolet](https://github.com/naluneotlichno/memolet)
 - 💡 Проекты которые планируются в будущем:
   - [WebParser AI](https://github.com/naluneotlichno/web-parser-ai)
   - [HyperPost](https://github.com/naluneotlichno/hyperpost)
   - [FixEnter](https://github.com/naluneotlichno/fix-enter)
-- 🎯 Цель: стать лидером в IT и помогать другим 
 - 💬 Люблю делиться опытом и создавать крутые штуки
 
 ## 💻 Языки и навыки
@@ -56,10 +55,3 @@
   <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge" alt="Gin">
   <img src="https://img.shields.io/badge/Microservices-%2343495E.svg?style=for-the-badge" alt="Microservices">
 </div>
-
-## 🌟 Благодарности
-Респект за классный инструментарий для божественного оформления GitGub:
-- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-Поставь ⭐ на эти репозитории бро. Обнял. Поцеловал. 💖
